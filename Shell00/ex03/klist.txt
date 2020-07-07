@@ -1,0 +1,5 @@
+Credentials cache: API:28F90CF1-5B54-4554-AF2A-C68F0DB8D117
+        Principal: ilee@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jul  3 03:36:24 2020  Jul 10 03:36:20 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
